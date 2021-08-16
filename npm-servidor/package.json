@@ -1,0 +1,16 @@
+{
+  "name": "npm-servidor",
+  "version": "1.0.0",
+  "description": "Testar Node.js com NPM e Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Estou sozinho :(\" "
+  },
+  "author": "Tiago Penha Pedroso",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1"
+  }
+}
